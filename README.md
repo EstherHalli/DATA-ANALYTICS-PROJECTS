@@ -34,3 +34,15 @@ Tasks Performed:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Project 4 : Hotel Booking Data Analysis using Python()
+This Hotel Booking data analysis project focused on analyzing the booking cancellation rates for city and resort hotel using Python libraries such as Pandas, Matplotlib, Seaborn and Plotly. The goal of this project was to gain insights into the cancellation trends in city and resort hotel and different country over a year. To help to lower the cancellation rates in hotels in order to increase their efficiency in increasing the revenue.
+
+Tasks Performed:
+1. Data Collection : Gathered dataset from Kaggle.
+2. Data Cleaning and Preprocessing : Read the CSV file using Pandas. Changed the datatypes of the columns, removed the null values, unnecessary columns and outliers.
+3. Exploratory Data Analysis(EDA) :
+- Analysed and visualised the cancellation rates for the hotels, average daily rate for the hotel over the years, reservation status per month, average daily rate per month for the cancelled state. 
+- Visualized to get the top countried for the reservation cancelled status. Tried to gain insights of market segment, the mode through which the reservations are made.
+- Through exploratory data analysis (EDA), aimed to gain a better understanding of how cancellation rates can be decreased by attracting more customers through the improved marketing strategy, by lowering the reservation costs, hotels can be assisted in pricing and promotional decisions, increasing the facilities in rooms, provide discount which will eventually reduce the ideal hotel room use and boost the revenue.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

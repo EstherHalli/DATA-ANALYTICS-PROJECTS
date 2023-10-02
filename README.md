@@ -34,7 +34,7 @@ Tasks Performed:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Project 4 : Hotel Booking Data Analysis using Python()
+### Project 4 : Hotel Booking Data Analysis using Python(https://github.com/EstherHalli/DATA-ANALYTICS-PROJECTS/tree/main/Hotel-Booking-Python)
 This Hotel Booking data analysis project focused on analyzing the booking cancellation rates for city and resort hotel using Python libraries such as Pandas, Matplotlib, Seaborn and Plotly. The goal of this project was to gain insights into the cancellation trends in city and resort hotel and different country over a year. To help to lower the cancellation rates in hotels in order to increase their efficiency in increasing the revenue.
 
 Tasks Performed:

@@ -4,7 +4,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Project 2 : HR Analytics PowerBi Dashboard (https://github.com/EstherHalli/DATA-ANALYTICS-PROJECTS/tree/main/HR-Analytics-PowerBi-Dashboard-Files)
+### Project 2 : HR Analytics PowerBI Dashboard (https://github.com/EstherHalli/DATA-ANALYTICS-PROJECTS/tree/main/HR-Analytics-PowerBi-Dashboard-Files)
 Created an interactive dashboard using Power BI to help an organization to improve employee performance and improve employee retention(reduce attrition). Used parameters to drill down into worksheet and customization using filters and slicers. Used different types of customized visualization(Cards, Treemap, Matrix, Stached Bar Chart, Area Chart, Donut Chart, Stacked Column Chart). 
 
 Tasks Performed:
@@ -41,8 +41,52 @@ Tasks Performed:
 1. Data Collection : Gathered dataset from Kaggle.
 2. Data Cleaning and Preprocessing : Read the CSV file using Pandas. Changed the datatypes of the columns, removed the null values, unnecessary columns and outliers.
 3. Exploratory Data Analysis(EDA) :
-- Analysed and visualised the cancellation rates for the hotels, average daily rate for the hotel over the years, reservation status per month, average daily rate per month for the cancelled state. 
-- Visualized to get the top countried for the reservation cancelled status. Tried to gain insights of market segment, the mode through which the reservations are made.
-- Through exploratory data analysis (EDA), aimed to gain a better understanding of how cancellation rates can be decreased by attracting more customers through the improved marketing strategy, by lowering the reservation costs, hotels can be assisted in pricing and promotional decisions, increasing the facilities in rooms, provide discount which will eventually reduce the ideal hotel room use and boost the revenue.
+   - Analysed and visualised the cancellation rates for the hotels, average daily rate for the hotel over the years, reservation status per month, average daily rate per month for the cancelled state. 
+   - Visualized to get the top countried for the reservation cancelled status. Tried to gain insights of market segment, the mode through which the reservations are made.
+   - Through exploratory data analysis (EDA), aimed to gain a better understanding of how cancellation rates can be decreased by attracting more customers through the improved marketing strategy, by 
+     lowering the reservation costs, hotels can be assisted in pricing and promotional decisions, increasing the facilities in rooms, provide discount which will eventually reduce the ideal hotel room use 
+     and boost the revenue.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Project 5 : Covid-19 Data Analytics PowerBI Dashboard (https://github.com/EstherHalli/DATA-ANALYTICS-PROJECTS/tree/main/Covid-19-Dashboard-Files)
+Created an interactive dashboard using Power BI to analyze all the countries across the world affected by Covid-19. Used parameters to drill down into worksheet and customization using filters and slicers.
+Used different types of customized visualization(Map, Table, Cards, Stacked Column Chart).
+
+Tasks Performed:
+- Download Covid-19 Dataset from Kaggle.
+- Fetch Data in #CSV format to Power Bi Desktop.
+- Transformed data to desired form using Power Query.
+- Performed ETL operations.
+- Used DAX functions to calculate Fatality and Recovery rate.
+- Create report using tooltip & measures for fatality & Recover rate %.
+- Implemented KPI's to visually represent and provide insights like Total Confirmes, Total Recovered, Total Deaths, Total Active, Fatality Rate and Recovery Rate.
+- Added slicer, table, stacked column chart and map to check on the cases by country. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Project 6 : Superstore PowerBI Dashboard (https://github.com/EstherHalli/DATA-ANALYTICS-PROJECTS/tree/main/Superstore-Dashboard-Files)
+Created an interactive dashboard using Power BI to analyse the superstore sales and profit data. The project focuses on leveraging PowerBI capabilities for data visualisation, reporting and business intelligence to gain insights into superstore sales and profit trends, customer behaviour and product performance. Used different types of customized visualization(Slicers, Cards, Donut Chart, Matrix, Stached Bar Chart, Line Chart).
+
+Tasks Performed:
+- Fetch Data to Power Bi Desktop.
+- Transformed data to desired form using Power Query(Removed Duplicates, Changed data type).
+- Performed ETL operations.
+- Implemented KPI's to visually represent and provide insights like Total Sales, Total Profit, Total Quantity of products sold.
+- Added Slicers, Cards, Donut Chart, Matrix, Stached Bar Chart, Line Chart to analyse the superstore sales and profit by category, sub-category, segment, region, state and year.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Project 7 : Covid-19 Data Analysis using Python (https://github.com/EstherHalli/DATA-ANALYTICS-PROJECTS/tree/main/Covid-19-Python-Files)
+Coronavirus (Covid 19) Data Analysis using Python, performed in-depth analysis and also visualised data to show the most affected countries by Covid-19. Utilised python libraries like Pandas, Matplotlib, Plotly and Seaborn in the project.  
+
+Tasks Performed:
+1. Data Collection: Gather Covid-19 Dataset from Kaggle.
+2. Data Preprocessing: Performed data cleaning and preprocessing using pandas to ensure accurate analysis. Convert data into usable format and perform data validation.
+3. Exploratory Data Analysis(EDA):
+   - Performed in-depth analysis on Covid-19 dataset to understand its characteristics, uncover hidden patterns and correlations between variables using libraries like 
+   Matplotlib, Plotly or Seaborn.
+   - Through exploratory data analysis (EDA), aimed to gain a better understanding of which countries were most affected by Covid-19.
+   - Also visualized to show the countries which has been recovered, deaths, active and confirmed cases.
+   - The trend of covid cases over a date. The trend of recovered cases of a particular country over a date.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

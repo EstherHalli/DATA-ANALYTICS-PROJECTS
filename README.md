@@ -20,7 +20,7 @@ Tasks Performed:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Project 3 : E-Commerce Sales Analysis using Python ()
+### Project 3 : E-Commerce Sales Analysis using Python (https://github.com/EstherHalli/DATA-ANALYTICS-PROJECTS/tree/main/E-Commerce-Python-Files)
 This data analysis project focused on analyzing Ecommerce sales data using popular Python libraries such as NumPy, Pandas, Matplotlib. The goal of this project was to gain insights into sales trends in different cities of a country over a year and boost revenue.
 
 Tasks Performed:

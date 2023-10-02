@@ -1,10 +1,10 @@
-## DATA-ANALYTICS-PROJECTS
+# DATA-ANALYTICS-PROJECTS
 
-# Project 1 : E-Commerce-Data-Analytics
+### Project 1 : E-Commerce-Data-Analytics
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Project 2 : HR Analytics PowerBi Dashboard (https://github.com/EstherHalli/DATA-ANALYTICS-PROJECTS/tree/main/HR-Analytics-PowerBi-Dashboard-Files)
+### Project 2 : HR Analytics PowerBi Dashboard (https://github.com/EstherHalli/DATA-ANALYTICS-PROJECTS/tree/main/HR-Analytics-PowerBi-Dashboard-Files)
 Created an interactive dashboard using Power BI to help an organization to improve employee performance and improve employee retention(reduce attrition). Used parameters to drill down into worksheet and customization using filters and slicers. Used different types of customized visualization(Cards, Treemap, Matrix, Stached Bar Chart, Area Chart, Donut Chart, Stacked Column Chart). 
 
 Tasks Performed:
@@ -20,7 +20,7 @@ Tasks Performed:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Project 3 : E-Commerce Sales Analysis using Python ()
+### Project 3 : E-Commerce Sales Analysis using Python ()
 This data analysis project focused on analyzing Ecommerce sales data using popular Python libraries such as NumPy, Pandas, Matplotlib. The goal of this project was to gain insights into sales trends in different cities of a country over a year and boost revenue.
 
 Tasks Performed:

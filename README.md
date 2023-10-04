@@ -1,8 +1,29 @@
 # DATA-ANALYTICS-PROJECTS
 
-### Project 1 : E-Commerce-Data-Analytics
+### Project 1 : E-Commerce-Sales-Dashboard ()
+Created an interactive dashboard using Power BI to provide a comprehensive, real-time overview of a business's online sales performance and related metrics. It aims to provide actionable insights that empower businesses to make data-backed decisions, enhance customer satisfaction, optimize operations and increase revenue.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tasks Performed:
+1. Data Gathering :
+   - Collected data from Kaggle.
+   - Created a database and imported the flat files to MS SQL Server.
+   - Establised a connection between Power BI and MS SQL DB.
+   - Imported data to Power BI Desktop.
+2. Data Cleaning and Transformation :
+   - Performed ETL operations in POwer Query.
+   - Cleansed the data to remove duplicates, handle missing values, and format it correctly for analysis.
+3. Data Modeling:
+   - Developed a data model that established the relationships between different data tables for accurate analysis.
+4. Data Visulaisation:
+   - Created KPI's showing YTD Sales, YTD Profit, YTD Quantity sold, YTD Profit Margin.
+   - YOY growth for each KPI and a YTD sparkline for each measure in the KPI to understand monthly trend for each fact.
+   - Created Matrix to find the YTD Sales, PYTD Sales, YoY Sales growthalond with trend icon for different customer category.
+   - Created a Map to show the YTD Sales performance by each State.
+   - Stacked bar chart to show the top5 and bottom 5 products by sales.
+   - Donut chart to represent the YTD Sales by region to show the best and worst performing region all over country.
+   - Donut chart to show YTD Sales by shipping type to get the best shipping type percentage.
+     
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Project 2 : HR Analytics PowerBI Dashboard (https://github.com/EstherHalli/DATA-ANALYTICS-PROJECTS/tree/main/HR-Analytics-PowerBi-Dashboard-Files)
 Created an interactive dashboard using Power BI to help an organization to improve employee performance and improve employee retention(reduce attrition). Used parameters to drill down into worksheet and customization using filters and slicers. Used different types of customized visualization(Cards, Treemap, Matrix, Stached Bar Chart, Area Chart, Donut Chart, Stacked Column Chart). 
